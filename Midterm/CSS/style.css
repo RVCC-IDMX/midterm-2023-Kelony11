@@ -1,0 +1,38 @@
+body{
+    background-color:white ;
+    color: black;
+    text-align:center;
+}
+
+
+
+/* Top companies section */
+#companies {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-bottom: 3rem;
+}
+
+#companies ul{
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#companies ul li:nth-child(odd) {
+    color: #D04BDB;
+}
+
+/* heading tags */
+h1, h2, h4, h5, h6 {
+    font-size: 40pt;
+    font-family: 'IBM Plex Serif', serif;
+    text-align: center;
+}
+
+/* All Paragraphs */
+p {
+    font-family: 'Brygada 1918', serif; 
+    font-size:20pt;
+}
