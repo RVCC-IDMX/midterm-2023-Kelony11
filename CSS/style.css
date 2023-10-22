@@ -18,20 +18,20 @@ body{
 }
 
 /* Top companies section */
-#companies {
+#websites {
     display:flex;
     flex-direction:column;
     align-items:center;
     margin-bottom: 3rem;
 }
 
-#companies ul{
+#websites ul{
     width:50%;
     margin-left:auto;
     margin-right:auto;
 }
 
-#companies ul li:nth-child(odd) {
+#websites ul li:nth-child(odd) {
     color: #D04BDB;
 }
 
