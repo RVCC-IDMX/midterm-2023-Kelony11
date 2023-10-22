@@ -5,6 +5,12 @@ body{
 }
 
 /* Featues icons */
+
+#features {
+    text-align: center;
+    row-gap: 1rem;
+}
+
 .feature-icon {
     width: 8rem;
     height: 4rem;
