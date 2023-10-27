@@ -17,11 +17,11 @@ body{
     border-radius: 0.75rem;
 }
 
-#testimonial h2,p {
+#testimonal h2,p {
     color:white;
 }
 
-#testimonial {
+.my-5 {
     background-color: black;
 }
 
