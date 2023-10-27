@@ -17,8 +17,12 @@ body{
     border-radius: 0.75rem;
 }
 
-#testimonial h2 {
-    color:white
+#testimonial h2,p {
+    color:white;
+}
+
+#bio h1{
+    color:black;
 }
 
 /* Top companies section */
