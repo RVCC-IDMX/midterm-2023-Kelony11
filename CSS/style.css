@@ -21,8 +21,12 @@ body{
     color:#D04BDB
 }
 
+#testimonial-secondary {
+    background-color: black;
+}
+
 #testimonial p {
-    color:white;
+    color:black;
 }
 
 
