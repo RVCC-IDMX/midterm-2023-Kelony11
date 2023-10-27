@@ -17,13 +17,15 @@ body{
     border-radius: 0.75rem;
 }
 
-#testimonal h2,p {
+#testimonial h2{
+    color:#D04BDB
+}
+
+#testimonial p {
     color:white;
 }
 
-.my-5 {
-    background-color: black;
-}
+
 
 #bio h1, p{
     color:black;
