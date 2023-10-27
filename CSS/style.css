@@ -17,6 +17,10 @@ body{
     border-radius: 0.75rem;
 }
 
+#working img{
+    margin-bottom: 20px;
+}
+
 /* Top companies section */
 #websites {
     display:flex;
