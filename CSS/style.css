@@ -21,7 +21,11 @@ body{
     color:white;
 }
 
-#bio h1{
+#testimonial {
+    background-color: black;
+}
+
+#bio h1, p{
     color:black;
 }
 
