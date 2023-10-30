@@ -75,7 +75,7 @@ p {
     font-size:20pt;
 }
 
-#carousel h4, p {
+#carousel h4, #carousel p {
     text-align: center;
-    
+
 }
